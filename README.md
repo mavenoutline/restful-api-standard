@@ -139,3 +139,8 @@ This document outlines a set of pragmatic best‑practices for designing develop
 ## 🛠 How to Use
 
 Clone or adapt this template to reflect your organizational standards. Use it as a living reference in your API style guide or developer onboarding materials. Tailor bits like field naming conventions, authentication style, or embedding rules as needed.
+
+
+## Contact Us
+MavenOutline develops high-quality mobile and web applications to help startups succeed.
+Made with ❤️ by <a href="https://mavenoutline.com">MavenOutline</a>
