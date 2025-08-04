@@ -142,5 +142,4 @@ Clone or adapt this template to reflect your organizational standards. Use it as
 
 
 ## Contact Us
-MavenOutline develops high-quality mobile and web applications to help startups succeed.
-Made with ❤️ by <a href="https://mavenoutline.com">MavenOutline</a>
+<a href="https://mavenoutline.com">MavenOutline</a> develops high-quality mobile and web applications to help startups succeed.
